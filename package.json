@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "start": "PORT=8888 & export PORT & ./chisel server --port $PORT"
+    "start": "./chisel server --port $PORT"
   }
 }
