@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "start": "./chisel server --port $PORT"
+    "start": "./chisel server --port 8888"
   }
 }
